@@ -1,4 +1,4 @@
-# 📊 HRD Candidate Analysis – Employee Attrition
+# 📊 HRD  Employee Attrition Analysis
 
 ## 📌 Project Overview
 Project ini bertujuan untuk menganalisis dan memprediksi **employee attrition ( pengurangan dan kinerja karyawan )**
